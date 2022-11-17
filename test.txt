@@ -1,3 +1,0 @@
-test message 2
-test message one more
-test message one more - no one more
