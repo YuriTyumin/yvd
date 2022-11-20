@@ -10,6 +10,7 @@ from selenium.webdriver.common.by import By
 
 
 #
+###
 # This part of the def from
 # "https://python-programs.com/python-check-if-a-process-is-running-by-name-and-find-its-process-id-pid/"
 # and "https://www.programcreek.com/python/example/53869/psutil.process_iter"
